@@ -134,6 +134,9 @@
     <Content Include="MasterPages\Login_Signup.Master" />
     <Content Include="fonts\SelfDeceptionRegular-ALLWA.ttf" />
     <Content Include="Python\Detector.py" />
+    <Content Include="Python\FakeNewsLSTM.h5" />
+    <Content Include="Python\LSTM_Tokenizer.pkl" />
+    <Content Include="Python\trainingDataset.csv" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Images\loginPageImage.png" />
     <Content Include="MasterPages\SignUp.aspx" />
